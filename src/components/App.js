@@ -45,4 +45,4 @@ const handleClick = () => {
 
 
 export default App;
-Footer
+
